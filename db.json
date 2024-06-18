@@ -147,6 +147,16 @@
       "gender": "male",
       "mobile": "9876543210",
       "image": "https://media.istockphoto.com/id/487176287/photo/young-man-studio-shoot-posing-closeup.jpg?s=1024x1024&w=is&k=20&c=PtMj_oGRExlDtZD2Yj-y1wQHqEEqwTjXcBJDytTdlnI="
+    },
+    {
+      "id": "1718689784673",
+      "name": "Abc",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "address": "Abc",
+      "gender": "male",
+      "mobile": "123456789",
+      "image": "https://m.media-amazon.com/images/I/71riE0O3ucL._SY450_PIbundle-2,TopRight,0,0_AA450SH20_.jpg"
     }
   ]
 }
